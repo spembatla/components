@@ -1,0 +1,203 @@
+.form{
+    margin: 10px;
+    align-items: center;
+}
+
+.btn{
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-s{
+    background-color: rgb(54, 54, 54);
+    border: 1px solid rgb(54, 54, 54);
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-sc{
+    background-color: rgb(4, 114, 5);
+    border: 1px solid rgb(4, 114, 5);
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-d{
+    background-color: rgb(229, 37, 37);
+    border: 1px solid rgb(229, 37, 37);
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-w{
+    background-color: rgb(229, 168, 37);
+    border: 1px solid rgb(229, 168, 37);
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-i{
+    background-color: rgb(50, 215, 218);
+    border: 1px solid rgb(50, 215, 218);
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-l{
+    background-color: rgb(248, 247, 247);
+    border: 1px solid rgb(248, 247, 247);
+    border-radius: 5px;
+    color: rgb(5, 5, 5);
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-da{
+    background-color: rgb(6, 6, 6);
+    border: 1px solid rgb(6, 6, 6);
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-p{
+    background-color: white;
+    border: 1px solid blue;
+    border-radius: 5px;
+    color:blue;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-p:hover{
+    background-color: blue;
+    color: white;
+}
+
+.btn-se{
+    background-color: white;
+    border: 1px solid rgb(54, 54, 54);
+    border-radius: 5px;
+    color: rgb(54, 54, 54);
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-se:hover{
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
+
+.btn-su{
+    background-color: white;
+    border: 1px solid rgb(4, 114, 5);
+    border-radius: 5px;
+    color: rgb(4, 114, 5);
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-su:hover{
+    background-color: rgb(4, 114, 5);
+    color: white;
+}
+.btn-dn{
+    background-color: white;
+    border: 1px solid rgb(229, 37, 37);
+    border-radius: 5px;
+    color: rgb(229, 37, 37);
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-dn:hover{
+    background-color: rgb(229, 37, 37);
+    color: white;
+}
+
+.btn-wa{
+    background-color: white;
+    border: 1px solid rgb(229, 168, 37);
+    border-radius: 5px;
+    color: rgb(229, 168, 37);
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-wa:hover{
+    background-color: rgb(229, 168, 37);
+    color: black;
+}
+
+.btn-in{
+    background-color: white;
+    border: 1px solid rgb(50, 215, 218);
+    border-radius: 5px;
+    color: rgb(50, 215, 218);
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-in:hover{
+    background-color: rgb(50, 215, 218);
+    color: black;
+}
+
+.btn-li{
+    background-color: white;
+    border: 1px solid rgb(248, 247, 247);
+    border-radius: 5px;
+    color: rgb(248, 247, 247);
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-li:hover{
+    background-color: rgb(248, 247, 247);
+    color: black;
+}
+
+.btn-dk{
+    background-color: white;
+    border: 1px solid rgb(6, 6, 6);
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-dk:hover{
+    background-color: rgb(6, 6, 6);
+    color: white;
+}

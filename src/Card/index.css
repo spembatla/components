@@ -1,0 +1,27 @@
+.card{
+    width: 18rem;
+    margin: 0 10px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    padding-bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-header{
+    padding: 10px;
+}
+
+.card-text{
+    padding: 10px;
+}
+
+.r{
+    padding: 10px;
+
+}
